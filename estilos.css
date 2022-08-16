@@ -1,0 +1,30 @@
+body {
+    background-color: #00695c;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.menu {
+    background-color: #006064;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.menu a {
+    color: white;
+    margin: 20px;
+}
+
+.content {
+    padding: 50px;
+    margin: 50px;
+    background-color: white;
+}
+
+h1 {
+    color: #006064;
+}
